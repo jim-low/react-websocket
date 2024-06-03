@@ -1,0 +1,17 @@
+#chat-page {
+  height: 100vh;
+}
+
+.message-window, .message-input-container {
+  padding: 0 15px;
+}
+
+.message-window {
+  height: 90vh;
+  padding-top: 15px;
+}
+
+.message-input-container {
+  margin-top: auto;
+  height: 5vh;
+}
