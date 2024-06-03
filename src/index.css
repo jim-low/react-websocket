@@ -9,5 +9,5 @@ html, body {
 }
 
 :root {
-  background-color: #010501;
+  --background-color: #010501;
 }
